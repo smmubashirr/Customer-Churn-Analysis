@@ -11,8 +11,8 @@
 - The dataset can be accessed through this link directing to Kaggle: [WA_Fn-UseC_-Telco-Customer-Churn](https://www.kaggle.com/datasets/palashfendarkar/wa-fnusec-telcocustomerchurn)
 
 ## Goal of the Analysis:
-In this project, I will analyze customer churn data from a telecommunications company to uncover the key factors that contribute to customer attrition. Through detailed exploratory data analysis (EDA), I will examine customer demographics, service subscriptions, and account-related information to identify patterns and trends related to churn.
+In this project, I will analyze customer churn data from a telecommunications company to uncover the key factors that contribute to customer attrition. Using Python and libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Empiricaldist, I will perform detailed exploratory data analysis (EDA) to examine customer demographics, service subscriptions, and account-related information to identify patterns and trends related to churn.
 
-I will also create visualizations to better understand the distribution of variables and their relationships with churn behavior. Based on these insights, I will engineer relevant features and develop a predictive model using logistic regression to estimate the likelihood of future customer churn. 
+I will create visualizations to better understand the distribution of variables and their relationships with churn behavior. Based on these insights, I will engineer relevant features and develop a predictive model using logistic regression to estimate the likelihood of future customer churn.
 
-The ultimate objective is to build a data-driven understanding that can help improve customer retention strategies.
+The ultimate objective is to build a data-driven understanding that can guide strategies for improving customer retention.
